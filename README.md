@@ -35,9 +35,9 @@ They asked the analytics team to provide insights through SQL for decision-makin
 * Created stored procedures for complex queries so that product owners could generate reports using necessary filters.
 * Developed a data pipeline to derive metrics, implementing data cleaning techniques where necessary.
 * Reports generated:
-  - [Profit and Loss Metrics]()
-  - [Top Performer Metrics](h)
-  - [Forecast Accuracy for Supply Chain]()
+  - [Profit and Loss Metrics](https://github.com/ADsaint13/Business-Insights-360/blob/main/Sql%20Insights-1%20Advance%20Finance%20Analysis..sql)
+  - [Top Performer Metrics](https://github.com/ADsaint13/Business-Insights-360/blob/main/Sql%20Insights-2%20Advance%20Top%20Performer%20Analysis..sql)
+  - [Forecast Accuracy for Supply Chain](https://github.com/ADsaint13/Business-Insights-360/blob/main/Sql%20Insights-3%20Advance%20Supply%20Chain%20%20Analysis..sql)
 
 ### Power BI Dashboard
 
