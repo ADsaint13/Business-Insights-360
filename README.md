@@ -3,7 +3,7 @@
 
 ## Link to my Dashboard
 
-🔷 Power BI Service - https://app.powerbi.com/reportEmbed?reportId=4fa34d70-3e56-45cc-bc68-a1ba47ec354c&autoAuth=true&ctid=5583c874-04ed-477b-8448-d0b72a6e40e2
+🔷 Power BI Service - https://app.powerbi.com/reportEmbed?reportId=5ab29000-3241-4a46-9953-1301c983f97a&autoAuth=true&ctid=1a9375e8-b8c5-4d91-80ee-6fc283967007
 
 ## Overview:
 *Project: Provide insights on Finance, Sales, Marketing, and Supply Chain to the management.*  
