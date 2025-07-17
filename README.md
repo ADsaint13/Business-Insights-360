@@ -88,6 +88,12 @@ A high-level report page for top management to track company-wide performance me
 * Top 5 Products and Top 5 Customers by Revenue.
 * Sub-zone insights with Revenue Contribution % analysis.
 
+## 	Screenshots / Demos
+Show what the dashboard looks like. 
+Example: ![Dashboard Preview](https://github.com/ADsaint13/Business-Insights-360/blob/main/Home.png)
+
+
+   
 ## Key Learnings:
 
 * The most insightful metrics for senior management are Gross Margin and Net Profit (Gross Margin - Operational Costs).
