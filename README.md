@@ -88,12 +88,7 @@ A high-level report page for top management to track company-wide performance me
 * Top 5 Products and Top 5 Customers by Revenue.
 * Sub-zone insights with Revenue Contribution % analysis.
 
-## 	Screenshots / Demos
-Show what the dashboard looks like. 
-Example: ![Dashboard Preview](https://github.com/ADsaint13/Business-Insights-360/blob/main/Home.png)
-
-
-   
+    
 ## Key Learnings:
 
 * The most insightful metrics for senior management are Gross Margin and Net Profit (Gross Margin - Operational Costs).
@@ -103,3 +98,38 @@ Example: ![Dashboard Preview](https://github.com/ADsaint13/Business-Insights-360
 * Managing stakeholder expectations is a key skill that enhances the value and clarity of data visualizations.
 
 # Thank you.
+
+## 📸 Screenshots / Demos
+
+### 🏠 Home
+![Dashboard Preview](https://github.com/ADsaint13/Business-Insights-360/blob/main/Home.png)
+
+---
+
+### 💰 Finance View
+![Finance View](https://github.com/ADsaint13/Business-Insights-360/blob/main/Finance%20View.png)
+
+---
+
+### 📈 Sales View
+![Sales View](https://github.com/ADsaint13/Business-Insights-360/blob/main/Sales%20View.png)
+
+---
+
+### 📣 Marketing View
+![Marketing View](https://github.com/ADsaint13/Business-Insights-360/blob/main/Marketing.png)
+
+---
+
+### 🚚 Supply Chain View
+![Supply Chain View](https://github.com/ADsaint13/Business-Insights-360/blob/main/Supply%20chain%20View.png)
+
+---
+
+### 👔 Executive View
+![Executive View](https://github.com/ADsaint13/Business-Insights-360/blob/main/Executive%20View.png)
+
+ 
+
+
+
