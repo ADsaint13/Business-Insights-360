@@ -102,7 +102,7 @@ A high-level report page for top management to track company-wide performance me
 ## 📸 Screenshots / Demos
 
 ### 🏠 Home
-![Dashboard Preview](https://github.com/ADsaint13/Business-Insights-360/blob/main/Home%20view.png)
+![Dashboard Preview](https://github.com/ADsaint13/Business-Insights-360/blob/cceef4555832babce76777e8f88938e9f8ff2f1f/Home%20view.png)
 
 ---
 
