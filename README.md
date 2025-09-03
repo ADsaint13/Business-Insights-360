@@ -3,7 +3,7 @@
 
 ## Link to my Dashboard
 
-🔷 Power BI Service -https://app.powerbi.com/view?r=eyJrIjoiMGFkZjgwNWYtYjMyNS00MjA5LTk0MmUtZGRlNjg5MjUyZGRhIiwidCI6IjFhOTM3NWU4LWI4YzUtNGQ5MS04MGVlLTZmYzI4Mzk2NzAwNyJ9&pageName=ReportSection0e765c0061580b067c73
+🔷 Power BI Service -https://app.powerbi.com/view?r=eyJrIjoiNGMzMGUyNTQtMjY1OS00ZmZiLWFjNjMtYWUwNjRkMDYwNTIzIiwidCI6IjFhOTM3NWU4LWI4YzUtNGQ5MS04MGVlLTZmYzI4Mzk2NzAwNyJ9&pageName=ReportSection0e765c0061580b067c73
 
 ## Overview:
 *Project: Provide insights on Finance, Sales, Marketing, and Supply Chain to the management.*  
